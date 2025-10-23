@@ -1,5 +1,3 @@
-# 🖼️ Next.js Image Manipulation
-
 ## Overview
 
 A web-based tool that allows users to perform various image editing operations directly in the browser. It’s built using **Next.js**, **Tailwind CSS**, and **TypeScript**, offering a smooth and modern user experience for handling image transformations.
